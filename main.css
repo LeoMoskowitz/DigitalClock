@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Archivo+Narrow|Comfortaa|Dosis');
+
+#time {
+  margin: 212px 0 0 0 ;
+  text-align: center;
+  font-size: 80px;
+  font-style: normal;
+  font-family: 'Comfortaa', cursive;
+}
+body{
+  background-color: #c1ecff;
+}
